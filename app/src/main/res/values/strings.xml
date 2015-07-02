@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NearU_02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_paired_devices">PairedDevices</string>
+    <string name="title_activity_detect_signal">detectSignal</string>
+</resources>
